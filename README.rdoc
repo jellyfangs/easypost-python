@@ -1,0 +1,10 @@
+= EasyPost Python bindings
+
+== Installation
+
+There currently aren't any installation steps. The easiest way to use the code is to copy/paste the easypost.py file into your project. We will be adding other installation options in the future (or feel free to make a pull request).
+
+== Documentation
+
+Please see https://www.easypost.co/docs for the most up-to-date
+documentation.
