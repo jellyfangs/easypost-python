@@ -16,7 +16,7 @@ if not _httplib:
 
 
 api_key = "..."
-base_url = 'http://localhost:8888/api'
+base_url = 'http://www.easypost.co/api'
 
 headers = {
   'User-Agent' : 'EasyPost-Python-v1',
